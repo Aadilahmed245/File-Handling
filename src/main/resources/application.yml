@@ -1,0 +1,9 @@
+#spring:
+#  http:
+#    multipart:
+#      max-file-size: 30MB
+#      max-request-size: 30MB
+#  application:
+#    name: FileHandling.Runner
+#server:
+#  port: 9090
